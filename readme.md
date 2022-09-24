@@ -1,3 +1,14 @@
+# Introduction
+
+This repository contains the code for the [ACM RecSys Challenge 2022](https://recsys.acm.org/recsys22/challenge/) sponsored by [Dressipi](https://dressipi.com/). 
+
+Our solution leverages an ensemble of multiple recommenders to capture different facets of the input data, followed by a ranking step. Such solution granted us the 11th in the competition (across 300 partecipants) and a published paper on ACM: [here the paper](https://dl.acm.org/doi/10.1145/3556702.3556845)
+
+We joined as independent researchers with no affiliation nor financial support from any company or university.
+
+# Instructions
+
+
 The code considers a python installation of python 3.7.11 and various packages with versions suggested in requirement files.
 
 To run the code inside the repository we provide a requirements file.
